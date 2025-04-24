@@ -124,3 +124,11 @@ console.log(
 ```bash
 pnpm ts-node index.ts
 ```
+
+
+
+
+### Txn Hash
+```zsh
+0xdd54f46cc624bc44630d6109bd1640c4c88c2f89d181a07ee0247129064f957c
+```
